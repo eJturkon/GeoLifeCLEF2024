@@ -1,6 +1,8 @@
 ## Table of Contents
 [Data Overview](#data)
+
 [Custom Data Class](#data-class)
+
 [Full Model Architecture](#full-model-architecture)
 
 ```python
