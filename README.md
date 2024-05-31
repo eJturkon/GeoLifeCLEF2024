@@ -1,9 +1,12 @@
 ## Table of Contents
+
+[Full Notebook](./modeling.ipynb)
+
 [Data Overview](#data)
 
 [Custom Data Class](#data-class)
 
-[Full Model Architecture](#full-model-architecture)
+[Model Architecture](#full-model-architecture)
 
 ```python
 import os
