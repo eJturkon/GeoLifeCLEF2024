@@ -1,3 +1,5 @@
+The following is the [Full Notebook](./modeling.ipynb) in markdown format. Click on hyperlinks in the table of contents to be taken to that section.
+
 ## Table of Contents
 
 [Full Notebook](./modeling.ipynb)
